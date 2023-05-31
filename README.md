@@ -9,4 +9,8 @@ For training and testing I've used AWS EC2 service(p2.8xlarge instance) and the 
 
 # Data
 
-For dataset I've used Open Images dataset available at "https://storage.googleapis.com/openimages/web/download_v7.html"
+For dataset I've used Open Images v6 dataset available at "https://storage.googleapis.com/openimages/web/download_v6.html"
+
+# EDA
+
+There's EDA.ipynb file exploring a susbset of Open-Imaga-v6 train dataset.
